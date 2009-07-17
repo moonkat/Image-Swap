@@ -4,6 +4,9 @@
      * 
      * @example <img src="images/someimage.png" swapsrc="images/someotherimage.png">
      */
+	
+// Needed files: jquery.js
+
 $(document).ready(function(){
     var swapsrcSelector = "[swapsrc]";
     var swapsrcTag = "swapsrc";
